@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(255, 255, 255, 0.747);
+  width: 900px;
+  padding: 40px 0;
+  margin: 10px auto;
+  border-radius: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+html {
+  background: url("XQRMY2UEXZE4VACIXD7SUC2GBU.jpg") center no-repeat;
+  background-size: auto;
+  text-align: center;
+}
